@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+background-color: white;
+margin: auto;
+position: fixed;
+width: 100%;
+z-index: 99;
+}
+table{
+    margin: auto;
+    padding: 15px;
+}
+.liens {
+    padding: 15px;
+
+}
+p{
+    font-size: 16px;
+}
+.container{
+    width: 100%;
+    height: 36px;
+    border-bottom: 1px solid white;
+}
+.logo {
+    height: 14px;
+    margin-left: 5px;
+}
+.coordonnee {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
+a{
+     text-decoration: none; 
+    color: #603c07;
+}
+.accueil{
+    width: 100%;
+    height: 500px;
+}
+.subtitle {
+    background-color: #000000;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://cdn.discordapp.com/attachments/884435778279706654/935870317392429096/pain.jpg);
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    color: #ffffff;
+    padding: 1em;
+    text-align: center;
+    font-weight: 300;
+    font-size: 48px;
+    font-family: 'Roboto',Helvetica,Arial,Lucida,sans-serif;
+    padding-bottom: 10px;
+  }
+
